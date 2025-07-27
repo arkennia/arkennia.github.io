@@ -1,2 +1,2 @@
 # Earliest Access 
-Website for Earliest Access Studio
+Earliest Access Studio
