@@ -22,7 +22,7 @@ title: Earliest Access
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Earliest Access makes games that rarely make it out of the earliest acces versions.
-baseurl: "www" # the subpath of your site, e.g. /blog
+baseurl: "/www" # the subpath of your site, e.g. /blog
 url: "www.earliestaccess.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  arkkenia
