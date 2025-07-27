@@ -1,2 +1,2 @@
-# arkennia.github.io
-A pages repository
+# Earliest Access 
+Website for Earliest Access Studio
