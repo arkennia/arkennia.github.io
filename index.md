@@ -3,4 +3,7 @@ layout: default
 title: Home
 ---
 
-<h1>{{ "Hello World!" | downcase }}</h1>
+Current Projects:
+
+Planets! 
+A space game made in Godot.
